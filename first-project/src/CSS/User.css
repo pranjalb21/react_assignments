@@ -1,0 +1,41 @@
+.User{
+    width: 60%;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    border: 2px solid indigo;
+    box-shadow: 0 10px 10px tomato;
+    padding: 16px;
+    text-align: center;
+}
+
+.text{
+    text-align: center;
+    border: 1px solid blue;
+    border-radius: 5px;
+    font-size: 17px;
+    height: 25px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.para{
+    margin-top: 5px;
+    height: 25px;
+    padding: 10px;
+}
+
+.button{
+    height: 30px;
+    width: 100px;
+    margin-top: 10px;
+    background-color: greenyellow;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 10px 10px gray;
+    cursor: pointer;
+}
+.button:hover{
+    background-color: rgb(6, 231, 36);
+}
